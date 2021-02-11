@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Learnings on Kirti Snigdha</title>
+    <link>https://kirtisnigdha.github.io/learnings/</link>
+    <description>Recent content in My Learnings on Kirti Snigdha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Sep 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://kirtisnigdha.github.io/learnings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploratory Data Analysis using Basic Statistics </title>
+      <link>https://kirtisnigdha.github.io/learnings/stats1/</link>
+      <pubDate>Thu, 03 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kirtisnigdha.github.io/learnings/stats1/</guid>
+      <description>&amp;ldquo;Exploratory data analysis can never be the whole story, but nothing else can serve as the foundation stone.&amp;rdquo; - Jhon Tukey
+The Exploratory Data Analysis or EDA can be done in two parts :
+ Graphical EDA : Graphical reprsentation of the tabular data    Histogram
+ Binning Bias: One disadvantage of histogram is the same data may be interpreted differently depending on choice of bins. To tackle that we can use the swarm plot.</description>
+    </item>
+    
+  </channel>
+</rss>

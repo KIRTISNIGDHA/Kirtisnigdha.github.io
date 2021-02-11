@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kirti Snigdha</title>
+    <link>https://kirtisnigdha.github.io/posts/</link>
+    <description>Recent content in Projects on Kirti Snigdha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://kirtisnigdha.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prognostoma</title>
+      <link>https://kirtisnigdha.github.io/posts/project-1/</link>
+      <pubDate>Mon, 09 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kirtisnigdha.github.io/posts/project-1/</guid>
+      <description>Glioblastoma multiforme (GBM) is the most common and aggressive form of brain tumor in adults (52 % of all primary brain tumors) with a poor prognosis of 12-15 months. Despite advances in the surgical and oncological treatment of GB the standard care are unable to prolong the remission and the investigative treatments introduced over past three decades have only been able to prolong the survival of patients by an average of three months.</description>
+    </item>
+    
+  </channel>
+</rss>
